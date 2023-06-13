@@ -1,0 +1,2 @@
+C:\Charles\UofT\PEY-COOP\code-portfolio\Webdev_projects\SurpriseMeal\SupriseMeal\SupriseMeal\obj\Debug\suprisemeal.esproj.SuggestedBindingRedirects.cache
+C:\Charles\UofT\PEY-COOP\code-portfolio\Webdev_projects\SurpriseMeal\SupriseMeal\SupriseMeal\obj\Debug\suprisemeal.esproj.CoreCompileInputs.cache
