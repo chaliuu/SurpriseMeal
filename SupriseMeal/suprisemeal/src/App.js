@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Wheel from './FortuneWheel.js'
+import ReactWheel from './ReactWheel';
 
 function App() {
     /** 
@@ -22,7 +23,7 @@ function App() {
       </header>
     </div>
   );*/
-    return <Wheel />;
+    return <Wheel/>;
 }
 
 
