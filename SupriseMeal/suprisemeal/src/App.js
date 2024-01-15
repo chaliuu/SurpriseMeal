@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import ReactWheel from './ReactWheel';
 import WheelComponent from "./ReactWheel";
-/**
+import SpinningLogo from "./SpinningLogo";
+/*
 
 function App() {
     /** 
@@ -53,23 +54,9 @@ export default function App() {
     };
     return (
         <div className="App">
-            <h1>Spinner wheel Demo for TDC</h1>
-            <div>
-                <WheelComponent
-                    segments={segments}
-                    segColors={segColors}
-                    winningSegment="MM"
-                    onFinished={(winner) => onFinished(winner)}
-                    primaryColor="black"
-                    contrastColor="white"
-                    buttonText="Start"
-                    isOnlyOnce={false}
-                    size={190}
-                    upDuration={500}
-                    downDuration={600}
-                    fontFamily="Helvetica"
-                />
-            </div>
+            <h1>SurpriseMeal</h1>
+            
+            <img src = "./logo.png"/>
             <h2> Spin the wheel and win exiting offers</h2>
         </div>
     );
